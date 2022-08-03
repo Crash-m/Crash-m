@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tundratrot
 - 👀 I’m interested in ... music, retro gaming
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... python, C++, QuakeC, ASM, BASIC, FORTRAN
+- 💞️ I’m looking to collaborate on ... Quake One, maps, mods, models, conversions etc
 - 📫 How to reach me ... 
 
 <!---
